@@ -1,13 +1,12 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <?totaltestVersion 20.2.1.v20200331-1253_109?>
-<!--Topaz for Total Test 20.2.1.v20200331-1253_109 09-Apr-2020 15:57:30-->
+<!--Topaz for Total Test 20.2.1.v20200331-1253_109 18-Apr-2020 17:57:26-->
 <testExecutions version="1">
-  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Scenarios\CWXTCOB_Scenario.testscenario">
-    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.00001: Check for RETURN_CODE"/>
-    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.00002: Check for PARM_LTH"/>
-    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.00003: Check for PARM_DATA"/>
+  <file path="C:\Users\cpwr01\git\FTSDEMO.AXJ1.CWXTCOB\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Scenarios\CWXTCOB_Scenario.testscenario">
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.00001: Check for PARM_LTH"/>
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.00002: Check for PARM_DATA"/>
   </file>
-  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Stubs\CWXTCOB_CWXTSUBC_01.stub">
+  <file path="C:\Users\cpwr01\git\FTSDEMO.AXJ1.CWXTCOB\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Stubs\CWXTCOB_CWXTSUBC_01.stub">
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00001: CWXTSUBC assertion.00001: Check for EMP_TYPE"/>
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00001: CWXTSUBC assertion.00002: Check for CALC_SALES"/>
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00001: CWXTSUBC assertion.00003: Check for CALC_COMMISSION"/>
@@ -33,7 +32,7 @@
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00008: CWXTSUBC assertion.00002: Check for CALC_SALES"/>
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00008: CWXTSUBC assertion.00003: Check for CALC_COMMISSION"/>
   </file>
-  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Stubs\CWXTCOB_CWXTDATE_01.stub">
+  <file path="C:\Users\cpwr01\git\FTSDEMO.AXJ1.CWXTCOB\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Stubs\CWXTCOB_CWXTDATE_01.stub">
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00001: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00001: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00001: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
@@ -119,7 +118,7 @@
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00014: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00014: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
   </file>
-  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Stubs\CWXTCOB_RPTFILE_FILE_01.stub">
+  <file path="C:\Users\cpwr01\git\FTSDEMO.AXJ1.CWXTCOB\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Stubs\CWXTCOB_RPTFILE_FILE_01.stub">
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00001: RPTFILE assertion.00001: Check for BLANK_LINE"/>
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00002: RPTFILE assertion.00001: Check for BLANK_LINE"/>
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00003: RPTFILE assertion.00001: Check for BLANK_LINE"/>
@@ -453,7 +452,7 @@
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00024: RPTFILE assertion.00003: Check for FILLER2"/>
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00024: RPTFILE assertion.00004: Check for EMP_GRAND_TOTAL"/>
   </file>
-  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Stubs\CWXTCOB_DATETIME_01.stub">
+  <file path="C:\Users\cpwr01\git\FTSDEMO.AXJ1.CWXTCOB\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Stubs\CWXTCOB_DATETIME_01.stub">
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_DATETIME_01'.00047: 'ACCEPT DATE' assertion.ACCEPT DATE"/>
   </file>
 </testExecutions>
