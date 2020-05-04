@@ -1,10 +1,11 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <?totaltestVersion 20.2.1.v20200331-1253_109?>
-<!--Topaz for Total Test 20.2.1.v20200331-1253_109 18-Apr-2020 17:57:26-->
+<!--Topaz for Total Test 20.2.1.v20200331-1253_109 04-May-2020 10:29:40-->
 <testExecutions version="1">
   <file path="C:\Users\cpwr01\git\FTSDEMO.AXJ1.CWXTCOB\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Scenarios\CWXTCOB_Scenario.testscenario">
-    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.00001: Check for PARM_LTH"/>
-    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.00002: Check for PARM_DATA"/>
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.00001: Check for RETURN_CODE"/>
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.00002: Check for PARM_LTH"/>
+    <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.00003: Check for PARM_DATA"/>
   </file>
   <file path="C:\Users\cpwr01\git\FTSDEMO.AXJ1.CWXTCOB\FTSDEMO_AXJ1_CWXTCOB\Unit Test\Stubs\CWXTCOB_CWXTSUBC_01.stub">
     <testCase duration="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00001: CWXTSUBC assertion.00001: Check for EMP_TYPE"/>

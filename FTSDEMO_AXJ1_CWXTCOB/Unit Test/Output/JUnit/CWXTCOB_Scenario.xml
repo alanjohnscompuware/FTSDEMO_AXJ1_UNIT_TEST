@@ -1,10 +1,11 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <?totaltestVersion 20.2.1.v20200331-1253_109?>
-<!--Topaz for Total Test 20.2.1.v20200331-1253_109 18-Apr-2020 17:57:26-->
+<!--Topaz for Total Test 20.2.1.v20200331-1253_109 04-May-2020 10:29:40-->
 <testsuites>
-  <testsuite errors="0" failures="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1" tests="2">
-    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1" name="00001: Check for PARM_LTH"/>
-    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1" name="00002: Check for PARM_DATA"/>
+  <testsuite errors="0" failures="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1" tests="3">
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1" name="00001: Check for RETURN_CODE"/>
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1" name="00002: Check for PARM_LTH"/>
+    <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1" name="00003: Check for PARM_DATA"/>
   </testsuite>
   <testsuite errors="0" failures="0" name="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00001: CWXTSUBC assertion" tests="3">
     <testcase classname="FTSDEMO_AXJ1_CWXTCOB.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00001: CWXTSUBC assertion" name="00001: Check for EMP_TYPE"/>
